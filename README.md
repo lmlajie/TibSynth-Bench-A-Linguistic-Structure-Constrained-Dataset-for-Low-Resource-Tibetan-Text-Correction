@@ -5,6 +5,19 @@
 <table>
   <tr>
     <td width="50%" align="center">
+      <a href="./框架图.svg">
+        <img src="./框架图.svg" alt="框架图" width="720">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub><strong>图 1｜</strong>框架图</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
       <a href="./原始语料主题分类分布.svg">
         <img src="./原始语料主题分类分布.svg" alt="原始语料主题分类分布图" width="400">
       </a>
