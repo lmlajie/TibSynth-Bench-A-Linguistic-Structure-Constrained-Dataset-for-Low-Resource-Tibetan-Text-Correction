@@ -6,7 +6,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="./框架图.svg">
-        <img src="./框架图.svg" alt="框架图" width="720">
+        <img src="./框架图.svg" alt="框架图" width="850">
       </a>
     </td>
   </tr>
