@@ -6,7 +6,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="./原始语料主题分类分布.svg">
-        <img src="./原始语料主题分类分布.svg" alt="原始语料主题分类分布图" width="720">
+        <img src="./原始语料主题分类分布.svg" alt="原始语料主题分类分布图" width="400">
       </a>
     </td>
     <td width="50%" align="center">
